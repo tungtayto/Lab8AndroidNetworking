@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846719701374",
+    "project_id": "todofirebase-6c8e3",
+    "storage_bucket": "todofirebase-6c8e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846719701374:android:6ea37e518f91960b9c232f",
+        "android_client_info": {
+          "package_name": "com.example.lab8bai2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846719701374-iighgfnq4i7sq03md9m5ucng55j3l10j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAZCnj4ApaTUY0fX5G4nlu0RQVmlertA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846719701374-iighgfnq4i7sq03md9m5ucng55j3l10j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868360528908",
+    "project_id": "groovy-legacy-365201",
+    "storage_bucket": "groovy-legacy-365201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868360528908:android:f696cae87e0c74fc20fa29",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868360528908-3pafr4ml2lsrer23jaf0ijppjr91umrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzBa5dox49ab4JNFhs4qAFcRUA2OYvbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868360528908-3pafr4ml2lsrer23jaf0ijppjr91umrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
